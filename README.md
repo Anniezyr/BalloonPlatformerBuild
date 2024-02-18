@@ -5,4 +5,4 @@ Control: WASD
 
 Pause Game: Esc
 
-Game Link: https://anniezyr.github.io/BalloonPlatformer/
+Game Link:https://anniezyr.github.io/BalloonPlatformerBuild/
